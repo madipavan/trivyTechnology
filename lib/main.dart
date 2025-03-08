@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       theme: AppTheme.darktheme,
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
+      title: "YOLO",
     );
   }
 }
